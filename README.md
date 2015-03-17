@@ -1,4 +1,4 @@
-This is an example of a device, driven by Freescale MQX RTOS 4.1.1. The example demonstrates how the device can register itself in the DeviceHive cloud, receive commands form the server and send notifications. 
+This is an example of a device, driven by Freescale MQX RTOS 4.1.1 (http://www.freescale.com/mqx). The example demonstrates how the device can register itself in the DeviceHive cloud, receive commands form the server and send notifications. 
 This example was originally developed for a custom board with Freescale Kinetis K70 processor as a core and requires IAR Embedded Workbench for ARM v. 7.30 or higher installed.
 For now the only available workspace configuration is Debug. The Release configuration will be available soon.
 
